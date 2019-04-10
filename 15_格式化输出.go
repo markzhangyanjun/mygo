@@ -12,6 +12,7 @@ func main(){
    //%s 字符串格式
    //%c 字符格式
    //%f 浮点格式
+   //%p 地址
 	fmt.Printf("a=%d,b=%s,c=%c,d=%f\n",a,b,c,d)
 
 	//%v 自动匹配格式输出
